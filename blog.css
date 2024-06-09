@@ -32,6 +32,7 @@ header{
   padding-left: 15px;
   padding-right: 15px;
   width:100%;
+  
 }
 
 .filters{
@@ -43,8 +44,7 @@ header{
  justify-content: space-around;
  padding: 10px, 0;
  background: black;
- 
-  
+ cursor: pointer;
 }
 
 .filters ul{
@@ -55,12 +55,16 @@ width: 50%;
   text-decoration: none;
   list-style: none;
   
-}
+  }
 
 .filters ul li{
   display: inline-block;
   padding-top: 10px;
-  padding-bottom: 10px;}
+  padding-bottom: 10px;
+  
+}
+  
+  
   
 
 
@@ -75,10 +79,8 @@ width: 50%;
   outline: 0;
   border-radius: 4px;
   background: white;
-  cursor: pointer;
+  }
   
-  
-}
 
 
 
