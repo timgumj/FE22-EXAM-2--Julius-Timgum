@@ -1,0 +1,90 @@
+
+
+header{
+  background: rgb(228, 223, 223);
+  color: white;
+  font-size: 26px;
+}
+
+
+#hero{
+  background:rgba(0, 0, 0, 0.689); }
+  .containerhero{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url(https://images.unsplash.com/photo-1632772998001-cc9bf6f7c852?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+  background-position: 70%;
+  }
+
+  footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  a{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+  width:100%;
+}
+
+.filters{
+ width: 100%;
+ display: flex;
+ padding-top: 20px;
+ padding-bottom: 10px;
+ align-items: center;
+ justify-content: space-around;
+ padding: 10px, 0;
+ background: black;
+ 
+  
+}
+
+.filters ul{
+text-align: center;
+width: 50%;
+  font-size: 16px;
+  color: rgb(18, 17, 17);
+  text-decoration: none;
+  list-style: none;
+  
+}
+
+.filters ul li{
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+  
+
+
+
+.filters ul li a{
+  color: rgb(12, 12, 12);
+  text-decoration: none;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0;
+  outline: 0;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  
+  
+}
+
+
+
+.filta{
+  color: white;
+  margin-left: 77px;
+  font-size: 22px;
+}
+
